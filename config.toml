@@ -77,7 +77,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
   # Baidu Webmaster (China Only)
   # https://zhanzhang.baidu.com/
-  #baiduSiteVerification = "Ao1cb94PkK"
+  baiduSiteVerification = "Ao1cb94PkK"
 
   # Sogou Webmaster (China Only)
   # http://zhanzhang.sogou.com/
