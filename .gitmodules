@@ -1,0 +1,3 @@
+[submodule "themes/hugo-nuo"]
+	path = themes/hugo-nuo
+	url = git@github.com:qianxinfeng/hugo-nuo.git
