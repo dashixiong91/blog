@@ -179,8 +179,7 @@ $$ evidence\_{i}=\sum\_{j}W\_{ij}x\_{j}+b\_{i} $$
 {{% video
   "/media/posts/hugo-nuo-post-preview/videojs.mp4"
   "/media/posts/hugo-nuo-post-preview/videojs.webm"
-  "/media/posts/hugo-nuo-post-preview/videojs.ogv"
-  "/blog/img/poster.jpg" %}}
+  "/media/posts/hugo-nuo-post-preview/videojs.ogv" %}}
 
 ## 13. 网易云音乐
 
