@@ -1,7 +1,95 @@
 baseURL = "https://qianxinfeng.github.io/blog/"
-canonifyurls = true
+languageCode = "zh-Hans"
+title = "大师兄's Blog"
 theme = "hugo-nuo"
 
-languageCode = "zh-Hans"
-title = "大师兄的博客"
+canonifyurls = true
+enableRobotsTXT = true
+pygmentsuseclasses = true
+PygmentsCodeFences = true
 
+# Disqus Username
+#disqusShortname = "disqus_shortname"
+
+# Google Analytics UA number
+#googleAnalytics = "UA-XXXXXXXX-X"
+
+# Copyright of your post
+copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce."
+
+# Initial site menu, you can extend menu with content.
+[[menu.main]]
+  name = "首页"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "作品"
+  weight = 20
+  identifier = "works"
+  url = "https://github.com/qianxinfeng"
+
+# Add your own params here
+[params]
+  author = "大师兄"
+  avatar = "/img/avatar.jpg"
+  seotitle = "大师兄的博客"
+  subtitle = "~ Web Front End Engineer ~"
+  description = "这里是 @大师兄 的个人博客，记录他在互联网新世界探索的点点滴滴 This is qianxinfeng's personal blog, he takes note here while exploring the new world."
+  paginate = 10
+
+  # Choose your social networks
+  email = "airic1991@gmail.com"
+  github = "qianxinfeng"
+  weibo = "shaguawb"
+  wechat= "/img/wechat-qrcode.png"  # Replace with your wechat qrcode image
+  #twitter = "qianxinfeng"
+  #linkedin = "qianxinfeng"
+  # facebook = "qianxinfeng"
+  # google = "109063353665074282689"
+  # instagram = "qianxinfeng"
+  # youtube = "qianxinfeng"
+  # vimeo = "qianxinfeng"
+  # medium = "qianxinfeng"
+  # quora = "qianxinfeng"
+  # pinterest = "qianxinfeng"
+  # dribbble = "qianxinfeng"
+  # behance = "qianxinfeng"
+  # jsfiddle = "qianxinfeng"
+  # codepen = "qianxinfeng"
+  # zhihu = "qianxinfeng"
+  # douban = "qianxinfeng"
+  # bilibili = "qianxinfeng"
+
+  # Changyan Comments (China Only)
+  #changyan = false
+  #changyanId = "qianxinfeng"
+  #changyanConf = "prod_0908b1cb9a581501753cce1ed074dbe3"
+
+  # Google Webmaster
+  # https://www.google.com/webmasters/
+  #googleSiteVerification = "_moDmnnBNVLBN1rzNxyGUGdPHE20YgbmrtzLIbxaWFc"
+
+  # Bing Webmaster
+  # https://www.bing.com/toolbox/webmaster/
+  #msValidate = "22596E34341DD1D17D6022C44647E587"
+
+  # Baidu Webmaster (China Only)
+  # https://zhanzhang.baidu.com/
+  #baiduSiteVerification = "Ao1cb94PkK"
+
+  # Sogou Webmaster (China Only)
+  # http://zhanzhang.sogou.com/
+  #sogouSiteVerification = "m2jktMQTZm"
+
+  # 360 Webmaster (China Only)
+  # http://zhanzhang.so.com/
+  #soSiteVerification = "b7ab3b4c2edbc856642004d1b8c27a91"
+
+  # Baidu Tongji (China Only)
+  # https://tongji.baidu.com/
+  #baiduTongji = "e21dc1e8a592188271b615159dc88af7"
+
+  # ICP Number (China Only)
+  #ICP = "京ICP备xxxxxxxx号-1"
