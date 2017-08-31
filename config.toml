@@ -1,0 +1,7 @@
+baseURL = "https://qianxinfeng.github.io/blog/"
+canonifyurls = true
+theme = "hugo-nuo"
+
+languageCode = "zh-Hans"
+title = "大师兄的博客"
+

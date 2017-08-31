@@ -1,0 +1,14 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "server": "hugo server -w",
+    "build": "hugo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qianxinfeng/blog.git"
+  },
+  "author": "qianxinfeng"
+}
