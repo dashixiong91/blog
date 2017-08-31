@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "server": "hugo server -w",
-    "build": "hugo"
+    "build": "hugo",
+    "deploy": "./deploy_ghpages.sh"
   },
   "repository": {
     "type": "git",
