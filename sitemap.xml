@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://qianxinfeng.github.io/blog/links/</loc>
+    <lastmod>2017-08-31T17:34:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qianxinfeng.github.io/blog/about/</loc>
+    <lastmod>2017-08-31T17:34:53+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://qianxinfeng.github.io/blog/post/my-first-post/</loc>
     <lastmod>2017-08-31T12:07:13+08:00</lastmod>
   </url>
@@ -25,7 +35,7 @@
   
   <url>
     <loc>https://qianxinfeng.github.io/blog/</loc>
-    <lastmod>2017-08-31T12:07:13+08:00</lastmod>
+    <lastmod>2017-08-31T17:34:34+08:00</lastmod>
     <priority>0</priority>
   </url>
   

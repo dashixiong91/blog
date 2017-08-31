@@ -1,23 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>大师兄的博客</title>
+    <title>大师兄&#39;s Blog</title>
     <link>https://qianxinfeng.github.io/blog/</link>
-    <description>Recent content on 大师兄的博客</description>
+    <description>Recent content on 大师兄&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Thu, 31 Aug 2017 12:07:13 +0800</lastBuildDate>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Thu, 31 Aug 2017 17:34:34 +0800</lastBuildDate>
     
 	<atom:link href="https://qianxinfeng.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
+      <title>友链</title>
+      <link>https://qianxinfeng.github.io/blog/links/</link>
+      <pubDate>Thu, 31 Aug 2017 17:34:34 +0800</pubDate>
+      
+      <guid>https://qianxinfeng.github.io/blog/links/</guid>
+      <description>我的朋友们。</description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://qianxinfeng.github.io/blog/about/</link>
+      <pubDate>Thu, 31 Aug 2017 17:34:53 +0800</pubDate>
+      
+      <guid>https://qianxinfeng.github.io/blog/about/</guid>
+      <description>关于大师兄的一切（待补）。</description>
+    </item>
+    
+    <item>
+      <title>第一篇文章</title>
       <link>https://qianxinfeng.github.io/blog/post/my-first-post/</link>
       <pubDate>Thu, 31 Aug 2017 12:07:13 +0800</pubDate>
       
       <guid>https://qianxinfeng.github.io/blog/post/my-first-post/</guid>
-      <description> 测试发布脚本 </description>
+      <description>测试发布脚本</description>
     </item>
     
   </channel>
