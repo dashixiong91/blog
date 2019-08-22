@@ -2,51 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>大师兄&#39;s Blog</title>
-    <link>https://qianxinfeng.github.io/blog/</link>
+    <link>https://xinfeng-tech.github.io/blog/</link>
     <description>Recent content on 大师兄&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Thu, 31 Aug 2017 17:34:34 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2017 17:34:53 +0800</lastBuildDate>
     
-	<atom:link href="https://qianxinfeng.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xinfeng-tech.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>友链</title>
-      <link>https://qianxinfeng.github.io/blog/links/</link>
+      <link>https://xinfeng-tech.github.io/blog/links/</link>
       <pubDate>Thu, 31 Aug 2017 17:34:34 +0800</pubDate>
       
-      <guid>https://qianxinfeng.github.io/blog/links/</guid>
+      <guid>https://xinfeng-tech.github.io/blog/links/</guid>
       <description>我的朋友们。</description>
     </item>
     
     <item>
       <title>关于</title>
-      <link>https://qianxinfeng.github.io/blog/about/</link>
+      <link>https://xinfeng-tech.github.io/blog/about/</link>
       <pubDate>Thu, 31 Aug 2017 17:34:53 +0800</pubDate>
       
-      <guid>https://qianxinfeng.github.io/blog/about/</guid>
+      <guid>https://xinfeng-tech.github.io/blog/about/</guid>
       <description>关于大师兄的一切（待补）。</description>
     </item>
     
     <item>
       <title>Hugo 主题 Nuo 文章样式预览</title>
-      <link>https://qianxinfeng.github.io/blog/post/hugo-nuo-post-preview/</link>
+      <link>https://xinfeng-tech.github.io/blog/post/hugo-nuo-post-preview/</link>
       <pubDate>Thu, 31 Aug 2017 12:07:13 +0800</pubDate>
       
-      <guid>https://qianxinfeng.github.io/blog/post/hugo-nuo-post-preview/</guid>
-      <description>&lt;p&gt;这篇文章集中说明本人博客主题所支持的 Markdown 语法和 Hugo Shortcodes 插件，你也可以在这里预览到他们的样子。如果你不喜欢某些部分的样式，可以去修改 &lt;code&gt;content.scss&lt;/code&gt; 和 &lt;code&gt;shortcodes.scss&lt;/code&gt; 这两个文件。预告一下，我所用的这个名为 &lt;code&gt;Nuo&lt;/code&gt; 的 &lt;code&gt;Hugo&lt;/code&gt; 也将于近期发布，敬请期待。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <guid>https://xinfeng-tech.github.io/blog/post/hugo-nuo-post-preview/</guid>
+      <description>&lt;p&gt;这篇文章集中说明本人博客主题所支持的 Markdown 语法和 Hugo Shortcodes 插件，你也可以在这里预览到他们的样子。如果你不喜欢某些部分的样式，可以去修改 &lt;code&gt;content.scss&lt;/code&gt; 和 &lt;code&gt;shortcodes.scss&lt;/code&gt; 这两个文件。预告一下，我所用的这个名为 &lt;code&gt;Nuo&lt;/code&gt; 的 &lt;code&gt;Hugo&lt;/code&gt; 也将于近期发布，敬请期待。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>第一篇文章</title>
-      <link>https://qianxinfeng.github.io/blog/post/my-first-post/</link>
+      <link>https://xinfeng-tech.github.io/blog/post/my-first-post/</link>
       <pubDate>Thu, 31 Aug 2017 12:07:13 +0800</pubDate>
       
-      <guid>https://qianxinfeng.github.io/blog/post/my-first-post/</guid>
+      <guid>https://xinfeng-tech.github.io/blog/post/my-first-post/</guid>
       <description>测试发布脚本</description>
     </item>
     
