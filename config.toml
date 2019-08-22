@@ -1,4 +1,4 @@
-baseURL = "https://qianxinfeng.github.io/blog/"
+baseURL = "https://xinfeng-tech.github.io/blog/"
 languageCode = "zh-Hans"
 title = "大师兄's Blog"
 theme = "hugo-nuo"
@@ -28,7 +28,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   name = "作品"
   weight = 20
   identifier = "works"
-  url = "https://github.com/qianxinfeng"
+  url = "https://github.com/xinfeng-tech"
 
 # Add your own params here
 [params]
