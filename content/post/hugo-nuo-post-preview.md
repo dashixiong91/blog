@@ -38,7 +38,7 @@ draft: false
 
 外链 [chekun's blog](https://chekun.me)
 
-页面内段落 [图片](../../Users/Airic/Downloads/hugo-nuo-post-preview.md#section-07)
+页面内段落 [图片](#section-07)
 
 *注意：你可以通过 `{#section-id}` 方式自定义段落锚点*
 
