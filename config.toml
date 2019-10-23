@@ -1,4 +1,4 @@
-baseURL = "http://www.xin1t.com/blog/"
+baseURL = "https://www.xin1t.com/blog/"
 languageCode = "zh-Hans"
 title = "大师兄's Blog"
 theme = "hugo-nuo"
