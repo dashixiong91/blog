@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "postinstall": "git submodule init && git submodule update",
     "server": "hugo server -w",
     "build": "hugo",
     "deploy": "./deploy_ghpages.sh"
