@@ -1,7 +1,7 @@
 ---
-title: "Flutter SDK versions Manager"
-tags: [flutter]
-date: 2019-10-31T12:07:13+08:00
+title: "Flutter Versions Manager"
+tags: ["Flutter", "Dart", "Front End"]
+date: 2019-10-31
 draft: false
 ---
 
