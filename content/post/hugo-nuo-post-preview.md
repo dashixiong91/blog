@@ -42,7 +42,8 @@ draft: false
 
 *注意：你可以通过 `{#section-id}` 方式自定义段落锚点*
 
-参考资料 <sup>[1](1)(#ref01)</sup><sup>[2](2)(#ref02)</sup>
+参考资料 <sup>[1](#ref01)</sup>
+参考资料 <sup>[2](#ref02)</sup>
 
 数字引用 [编号为 1 的链接](#ref01)
 
