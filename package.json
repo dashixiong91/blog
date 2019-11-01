@@ -6,7 +6,7 @@
     "postinstall": "git submodule init && git submodule update",
     "server": "hugo server -w --disableFastRender",
     "build": "hugo",
-    "deploy": "./deploy_ghpages.sh"
+    "pub": "bin/publish.sh"
   },
   "repository": {
     "type": "git",

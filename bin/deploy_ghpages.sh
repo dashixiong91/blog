@@ -22,7 +22,8 @@ echo "Generating site"
 npm run build
 
 echo "Updating gh-pages branch"
-cd public && git add --all
+pushd public
+git add --all
 
 # Commit changes.
 msg="Publishing to gh-pages by deploy_ghpages.sh(`date`)"
@@ -35,4 +36,4 @@ git commit -m "$msg"
 git push origin gh-pages
 
 # Come Back up to the Project Root
-cd ..
+popd
