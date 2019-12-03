@@ -1,4 +1,0 @@
-[submodule "themes/hugo-nuo"]
-	path = themes/hugo-nuo
-	url = https://github.com/xinfeng-tech/hugo-nuo.git
-    branch = master

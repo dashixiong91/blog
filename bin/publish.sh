@@ -8,6 +8,11 @@ THEME_PROJECT_DIR="${PROJECT_DIR}/themes/hugo-nuo"
 
 function commit_theme(){
     pushd $THEME_PROJECT_DIR
+      local is_clean=`git status | grep 'working tree clean'`
+      if [[ ! -z $is_clean ]];then
+        popd
+        return
+      fi
       git add .
       git commit -m "commit by publish `date`"
       git push
