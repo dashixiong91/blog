@@ -9,12 +9,10 @@ THEME_PROJECT_DIR="${PROJECT_DIR}/themes/hugo-nuo"
 function commit_theme(){
     pushd $THEME_PROJECT_DIR
       local is_clean=`git status | grep 'working tree clean'`
-      if [[ ! -z $is_clean ]];then
-        popd
-        return
+      if [[  -z $is_clean ]];then
+         git add .
+         git commit -m "commit by publish `date`"
       fi
-      git add .
-      git commit -m "commit by publish `date`"
       git push
     popd
 }
@@ -23,8 +21,11 @@ function main(){
   echo -e "\033[32m publish to github... \033[0m"
   commit_theme
   pushd $PROJECT_DIR
-   git add .
-   git commit -m "update by publish:`date`"
+   local is_clean=`git status | grep 'working tree clean'`
+   if [[  -z $is_clean ]];then
+       git add .
+       git commit -m "commit by publish `date`"
+   fi
    git push
    bin/deploy_ghpages.sh
   popd
