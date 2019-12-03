@@ -1,10 +1,10 @@
 {
-  "name": "Ritchie Pub.",
-  "short_name": "ritchie",
+  "name": "大师兄's Blog",
+  "short_name": "大师兄",
   "display": "standalone",
   "orientation": "any",
   "start_url": "./?utm_source=homescreen",
-  "theme_color": "#02b875",
+  "theme_color": "#9C27B0",
   "background_color": "#fafafa",
   "icons": [
     {
