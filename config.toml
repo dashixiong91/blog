@@ -22,11 +22,11 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   identifier = "home"
   url = "/"
 
-[[menu.main]]
-  name = "作品"
-  weight = 20
-  identifier = "works"
-  url = "https://github.com/xinfeng-tech"
+#[[menu.main]]
+#  name = "作品"
+#  weight = 20
+#  identifier = "works"
+#  url = "https://github.com/xinfeng-tech"
 
 [[menu.main]]
   name = "标签"
