@@ -8,7 +8,7 @@ THEME_PROJECT_DIR="${PROJECT_DIR}/themes/hugo-nuo"
 
 function main(){
   if [[ ! -d $THEME_PROJECT_DIR ]];then
-    git clone https://github.com/xinfeng-tech/hugo-nuo.git $THEME_PROJECT_DIR
+    git clone https://github.com/dashixiong91/hugo-nuo.git $THEME_PROJECT_DIR
   fi
   pushd $THEME_PROJECT_DIR
     git pull

@@ -26,7 +26,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 #  name = "作品"
 #  weight = 20
 #  identifier = "works"
-#  url = "https://github.com/xinfeng-tech"
+#  url = "https://github.com/dashixiong91"
 
 [[menu.main]]
   name = "标签"
@@ -46,7 +46,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
   # Choose your social networks
   email = "airic1991@gmail.com"
-  github = "xinfeng-tech"
+  github = "dashixiong91"
   zhihu = "qianxinfeng"
   weibo = "shaguawb"
   # wechat= "images/wechat-qrcode.png"  # Replace with your wechat qrcode image

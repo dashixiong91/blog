@@ -121,11 +121,11 @@ if (document.getElementById('my-player') !== null) {
 
 不带标题的图片，如下图👇
 
-![这是一只梅花鹿](https://xinfeng-tech.gitee.io/assets/blog/content/media/posts/hugo-nuo-post-preview/01.jpg)
+![这是一只梅花鹿](https://dashixiong91.gitee.io/assets/blog/content/media/posts/hugo-nuo-post-preview/01.jpg)
 
 带标题的图片，如下图👇
 
-{{% figure src="https://xinfeng-tech.gitee.io/assets/blog/content/media/posts/hugo-nuo-post-preview/01.jpg" alt="这是一只梅花鹿" title="显然，这是一只梅花鹿" %}}
+{{% figure src="https://dashixiong91.gitee.io/assets/blog/content/media/posts/hugo-nuo-post-preview/01.jpg" alt="这是一只梅花鹿" title="显然，这是一只梅花鹿" %}}
 
 ## 8. 表格
 
@@ -178,9 +178,9 @@ $$ evidence\_{i}=\sum\_{j}W\_{ij}x\_{j}+b\_{i} $$
 主题使用了 [video.js](http://videojs.com/) 播放视频文件，你还可以自己定义视频的封面，在主题目录 `layouts/shortcodes` 文件夹下的 `video.html` 对该标签进行定义。
 
 {{% video
-  "https://xinfeng-tech.gitee.io/assets/blog/content/media/posts/hugo-nuo-post-preview/videojs.mp4"
-  "https://xinfeng-tech.gitee.io/assets/blog/content/media/posts/hugo-nuo-post-preview/videojs.webm"
-  "https://xinfeng-tech.gitee.io/assets/blog/content/media/posts/hugo-nuo-post-preview/videojs.ogv" %}}
+  "https://dashixiong91.gitee.io/assets/blog/content/media/posts/hugo-nuo-post-preview/videojs.mp4"
+  "https://dashixiong91.gitee.io/assets/blog/content/media/posts/hugo-nuo-post-preview/videojs.webm"
+  "https://dashixiong91.gitee.io/assets/blog/content/media/posts/hugo-nuo-post-preview/videojs.ogv" %}}
 
 ## 13. 网易云音乐
 

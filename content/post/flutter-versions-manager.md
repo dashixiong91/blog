@@ -5,7 +5,7 @@ date: 2019-10-31
 draft: false
 ---
 
-<img src="https://xinfeng-tech.gitee.io/assets/fvm/title.png">
+<img src="https://dashixiong91.gitee.io/assets/fvm/title.png">
 
 # fvm
 > Flutter SDK 多版本管理工具
@@ -14,7 +14,7 @@ draft: false
 
 1. 首先，添加homebrew的tap源：
 ```shell
-brew tap xinfeng-tech/fvm
+brew tap dashixiong91/fvm
 ```
 
 2. 添加完tap之后，你可以安装`fvm`
@@ -64,8 +64,8 @@ fvm list-remote all
 
 ## 预览图
 
- <img src="https://xinfeng-tech.gitee.io/assets/fvm/terminal_v3.png" alt="terminal">
+ <img src="https://dashixiong91.gitee.io/assets/fvm/terminal_v3.png" alt="terminal">
 
 ## 链接
 
-[Github Repo](https://github.com/xinfeng-tech/fvm)
+[Github Repo](https://github.com/dashixiong91/fvm)
